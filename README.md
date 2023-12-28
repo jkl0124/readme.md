@@ -1,5 +1,3 @@
-I'm hyunsoo   
-I believe that software benefits world   
 
 
 [![Solved.ac
