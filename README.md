@@ -1,9 +1,9 @@
 #안녕하세요 김현수입니다.   
 
 major in hongik univ.   
-*Economics   
-*Computer Engineering   
-*Business Administration   
+ - Economics   
+ - Computer Engineering   
+ - Business Administration   
 
 # Language   
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
