@@ -1,8 +1,8 @@
 #안녕하세요 김현수입니다.   
 
 major in hongik univ.   
--Economics
--Computer Engineering
+-Economics   
+-Computer Engineering   
 -Business Administration   
 
 # Language   
