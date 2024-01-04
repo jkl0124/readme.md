@@ -4,18 +4,21 @@
 | `M (m7g.medium)` | `2.55987sec` |
 | `C (c6g.medium)` | `2.98004sec` |
 | `R (r7g.medium)` | `2.23438sec` |   
+
 | 유형 | 속도 |
 |-------|-------|
 | `T (t4g.large)` | `3.03277sec` |
 | `M (m7g.large)` | `1.57799sec` |
 | `C (c6g.large)` | `3.08457sec` |
 | `R (r7g.large)` | `4.92406sec` |   
+
 | 유형 | 속도 |
 |-------|-------|
 | `T (t4g.large)` | `62.16461sec` |
 | `M (m7g.large)` | `46.27828sec` |
 | `C (c6g.large)` | `62.95662sec` |
 | `R (r7g.large)` | `45.62199sec` |   
+
 | 유형 | 속도 |
 |-------|-------|
 | `T (t4g.medium)` | `64.02183sec` |
