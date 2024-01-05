@@ -1,4 +1,4 @@
-### [🔎 인스턴스 성능 비교 링크](https://github.com/jkl0124/jkl0124/blob/main/instance.md&color=gradient&fontSize=45)
+### [🔎 인스턴스 성능 비교 링크](https://github.com/jkl0124/jkl0124/blob/main/instance.md)
 
 - 안녕하세요 김현수입니다.   
 - 세상을 생산적으로 만드는 개발자가 되겠습니다.
